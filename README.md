@@ -6,8 +6,8 @@
 
 ### Links and Resources
 
-- [submission PR]
-- [ci/cd]
+- [submission PR](https://github.com/401-advanced-javascript-Rashid/data-structures-and-algorithms/pull/3)
+- [ci/cd](https://github.com/401-advanced-javascript-Rashid/data-structures-and-algorithms/runs/408788344?check_suite_focus=true)
 
 ### Setup
 

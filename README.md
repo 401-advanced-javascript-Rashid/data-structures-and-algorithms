@@ -10,12 +10,11 @@ Write a function that shifts the order of any array with numbers and inserts a n
 
 ## Setup
 
-npm i jest eslint
+npm i jest
 
 ## How to initialize/run your application (where applicable)
 
 - 'npm test'
-- 'npm run lint'
 
 ## Challenge
 

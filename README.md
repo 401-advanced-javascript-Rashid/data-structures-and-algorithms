@@ -1,6 +1,6 @@
 ## Author: Rashid-Alsawalqa
 
-# Code Challenge // Shift an Array
+# Code Challenge // Array Binary Search
 Write a function that shifts the order of any array with numbers and inserts a number into the middle
 
 ## Links and Resources

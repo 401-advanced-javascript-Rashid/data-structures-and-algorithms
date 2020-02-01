@@ -5,8 +5,8 @@ A linked list is a linear data structure, in which the elements are not stored a
 
 ## Links and Resources
 
-- [submission PR]()
-- [ci/cd]()
+- [submission PR](https://github.com/401-advanced-javascript-Rashid/data-structures-and-algorithms/pull/4)
+- [ci/cd](https://github.com/401-advanced-javascript-Rashid/data-structures-and-algorithms/runs/420891874?check_suite_focus=true)
 
 ## Setup
 
@@ -26,3 +26,4 @@ i need to make a Fake linked-list. show that i can make an empty list, that i ca
 Every thing in the UML
 
 # UML
+https://raw.githubusercontent.com/401-advanced-javascript-Rashid/data-structures-and-algorithms/linked-list/assest/20200201_164844.jpg

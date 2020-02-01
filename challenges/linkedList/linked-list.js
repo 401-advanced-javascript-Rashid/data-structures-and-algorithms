@@ -25,9 +25,9 @@ class SuitsLinkedList {
   }
 
   insert(value) {
-    const new_mark_NodeNode = new MarkNode(value);
-    new_mark_NodeNode.next = this.head;
-    this.head = new_mark_NodeNode;
+    const new_mark_Node = new MarkNode(value);
+    new_mark_Node.next = this.head;
+    this.head = new_mark_Node;
     this.size++;
   }
 
@@ -41,6 +41,56 @@ class SuitsLinkedList {
     }
     return string;
   }
+
+  append(value) {
+    const new_mark_Node = new MarkNode(value);
+    let mark_Node = this.head;
+    while(mark_Node.next) {
+      mark_Node = mark_Node.next;
+    }
+    mark_Node.next = new_mark_Node;
+    this.size++;
+  }
+
+  insertBefore(value, newValue) {
+    const new_mark_Node = new MarkNode(newValue);
+    if(this.head === null) {
+      this.head = new_mark_Node;
+      this.size++;
+      return this.head;
+    }
+    if(this.head.value === value) {
+      new_mark_Node.next = this.head;
+      this.head = new_mark_Node;
+    }
+    let mark_Node = this.head;
+    while(mark_Node.next.value !== value) {
+      mark_Node.next = new_mark_Node;
+    }
+    new_mark_Node.next = mark_Node.next;
+    mark_Node.next = new_mark_Node;
+    this.size++;
+    return new_mark_Node;
+  }
+
+  insertAfter(value, newValue) {
+    const new_mark_Node = new MarkNode(newValue);
+    let mark_Node = this.head;
+    if(this.head === null) {
+      this.head = new_mark_Node;
+      this.size++;
+      return this.head;
+    }
+    while(mark_Node.value !== value) {
+      mark_Node = mark_Node.next;
+    }
+    new_mark_Node.next = mark_Node;
+    mark_Node.next = new_mark_Node;
+    this.size++;
+  }
+
 }
+
+
 
 module.exports = { MarkNode , SuitsLinkedList } ;

@@ -3,11 +3,12 @@
 # Code Challenge // linked-list-insertions
 Insertion of linked list
 So, the steps to be followed are as follows: Make a new node. Point the 'next' of the new node to the 'head' of the linked list. Mark new node as 'head'.
-...
-These three possibilities are:
-Insertion at the beginning of the list.
-Insertion at the end of the list.
-Inserting a new node except the above-mentioned positions.
+__________
+
+- These three possibilities are:
+- Insertion at the beginning of the list.
+- Insertion at the end of the list.
+- Inserting a new node except the above-mentioned positions.
 
 
 ## Links and Resources

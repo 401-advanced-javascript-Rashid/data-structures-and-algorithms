@@ -11,8 +11,8 @@ Elements are always added to the back and removed from the front. Think of it as
 
 ## Links and Resources
 
-- [submission PR]()
-- [ci/cd]()
+- [submission PR](https://github.com/401-advanced-javascript-Rashid/data-structures-and-algorithms/pull/7)
+- [ci/cd](https://github.com/401-advanced-javascript-Rashid/data-structures-and-algorithms/runs/422164168?check_suite_focus=true)
 
 ## Setup
 

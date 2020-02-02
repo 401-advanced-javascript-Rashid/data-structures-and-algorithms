@@ -27,15 +27,15 @@ Elements are always added to the back and removed from the front. Think of it as
 
 We needed to first create a node constructor, and then the stack and the queue classes. 
 
-Stack would need three methods: 
-push: adding a node to the top of the stack .
-pop: removing a node off the top of the stack .
-peek: which checks and returns the value of the node at the top.
+### Stack would need three methods: 
+- push: adding a node to the top of the stack .
+- pop: removing a node off the top of the stack .
+- peek: which checks and returns the value of the node at the top.
 
-For queues :
-Enqueue: adds a node to the rear of he queue .
-dequeue: removes a node from the front .
-peek: which checks and returns the front node .
+### For queues :
+- Enqueue: adds a node to the rear of he queue .
+- dequeue: removes a node from the front .
+- peek: which checks and returns the front node .
 
 ## Approach & Efficiency
 

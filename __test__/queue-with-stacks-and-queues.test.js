@@ -1,6 +1,6 @@
 'use strict';
 
-const Stack = require('../stacksAndQueues/stacks.js').Stack;
+const Stack = require('../QueueWithStacks/queue-with-stacks.js').Stack;
 
 describe('Stack tests results', () => {
   let stack = new Stack;
@@ -44,7 +44,7 @@ describe('Stack tests results', () => {
 
 });
 
-const Queue = require('../stacksAndQueues/queues.js').Queue;
+const Queue = require('../Queues/queues.js').Queue;
 
 describe('Queue tests results', () => {
   let queue = new Queue;
@@ -82,4 +82,23 @@ describe('Queue tests results', () => {
     expect(queue.length).toEqual(9);
   });
   
+});
+
+const PseudoQueue = require('../QueueWithStacks/queue-with-stacks.js').PseudoQueue;
+
+describe('stacks and queues testing', () => {
+  const queue = new PseudoQueue();
+  
+  it('Enqueue nodes', () => {
+    queue.stack1.push(1);
+    queue.stack1.push(2);
+    queue.enqueue(3);
+    expect(queue.stack1.top.value).toEqual(2);
+    expect(queue.stack1.top.next.next.value).toEqual(3);
+  });
+
+  it('dequeue the last value and returns', () => {
+    const result = queue.dequeue();
+    expect(result).toEqual(3);
+  });
 });

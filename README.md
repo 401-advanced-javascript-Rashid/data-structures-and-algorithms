@@ -1,6 +1,6 @@
 ## Author: Rashid-Alsawalqa
 
-# Code Challenge // Stacks and Queues
+# Code Challenge // Queue With Stacks
 
 Stacks. A stack is a container of objects that are inserted and removed according to the last-in first-out (LIFO) principle. ... A stack is a limited access data structure - elements can be added and removed from the stack only at the top. push adds an item to the top of the stack, pop removes the item from the top.
 
@@ -36,6 +36,16 @@ For queues :
 Enqueue: adds a node to the rear of he queue .
 dequeue: removes a node from the front .
 peek: which checks and returns the front node .
+
+### and 
+
+We needed to create a brand new PseudoQueue class. this PseudoQueue class will implement our standard queue interface, but will internally only utilize 2 Stack objects.
+
+## PseudoQueue Methods
+
+- enqueue - can enter item(s) into a queue
+- dequeue - can remove item(s) from the queue until empty
+- peek - can peek into queue seeing expected value
 
 ## Approach & Efficiency
 

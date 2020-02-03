@@ -6,8 +6,8 @@ Stands for "First In, First Out." FIFO is a method of processing and retrieving 
 
 ## Links and Resources
 
-- [submission PR]()
-- [ci/cd]()
+- [submission PR](https://github.com/401-advanced-javascript-Rashid/data-structures-and-algorithms/pull/8)
+- [ci/cd](https://github.com/401-advanced-javascript-Rashid/data-structures-and-algorithms/runs/424239312?check_suite_focus=true)
 
 ## Setup
 

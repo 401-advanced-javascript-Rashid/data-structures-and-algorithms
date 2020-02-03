@@ -22,13 +22,8 @@ Stands for "First In, First Out." FIFO is a method of processing and retrieving 
 
 We needed to first create a node constructor, and then the AnimalShelter and the queue classes. 
 
-Enqueue: adds a node to the rear of he queue .
-dequeue: removes a node from the front .
-
-## PseudoQueue Methods
-
-- enqueue - can enter item(s) into a queue
-- dequeue - can remove item(s) from the queue until empty
+- Enqueue: adds a node to the rear of he queue .
+- dequeue: removes a node from the front .
 
 ## Approach & Efficiency
 

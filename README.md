@@ -4,8 +4,8 @@
 
 ## Links and Resources
 
-- [submission PR]()
-- [ci/cd]()
+- [submission PR](https://github.com/401-advanced-javascript-Rashid/data-structures-and-algorithms/pull/10)
+- [ci/cd](https://github.com/401-advanced-javascript-Rashid/data-structures-and-algorithms/runs/432524639?check_suite_focus=true)
 
 ## Setup
 
@@ -22,3 +22,5 @@ Write a method fro the Linked List Class which takes a number as a parameter and
 
 
 # UML
+
+https://raw.githubusercontent.com/401-advanced-javascript-Rashid/data-structures-and-algorithms/ll-merge/assest/20200207_210736.jpg

@@ -5,8 +5,8 @@ A linked list is a linear data structure, in which the elements are not stored a
 
 ## Links and Resources
 
-- [submission PR]()
-- [ci/cd]()
+- [submission PR](https://github.com/401-advanced-javascript-Rashid/data-structures-and-algorithms/pull/9)
+- [ci/cd](https://github.com/401-advanced-javascript-Rashid/data-structures-and-algorithms/runs/432287782?check_suite_focus=true)
 
 ## Setup
 

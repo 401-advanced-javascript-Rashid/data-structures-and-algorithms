@@ -53,3 +53,4 @@ By assigning values and pointers upon instatiation, we are able to readily targe
 All of theses methods have a big O of O(1) as they are readily accesible regardless of the length or depth of the queue or stack. 
 
 ## UML 
+https://raw.githubusercontent.com/401-advanced-javascript-Rashid/data-structures-and-algorithms/queue-with-stacks/assest/20200208_234601.jpg

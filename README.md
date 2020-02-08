@@ -34,3 +34,5 @@ Similar to PsuedoQueue instantiate two stacks enqueue takes animal value, either
 here we have two methods for enqueue we just use the back property and set it next to the new object so O(1), for dequeue we just change the front to it next object and thats it so O(1) .
 
 ## UML 
+
+https://raw.githubusercontent.com/401-advanced-javascript-Rashid/data-structures-and-algorithms/fifo-animal-shelter/assest/20200209_001637.jpg

@@ -27,5 +27,10 @@ We needed to first create a node constructor, and then the AnimalShelter and the
 
 ## Approach & Efficiency
 
+Similar to PsuedoQueue instantiate two stacks enqueue takes animal value, either cat or dog, pushes it onto the inStack dequeue(pref): if value pref at top of outStack, it pops off top value go through pref to find pref. if there is no value on outStack, then it goes to inStack and takes value off top of inStack and pushes to outStack (first in first out) if there is no value called, pop off longest pet in shelter. if no animal equal to preference, return undefined
+
+## Big O
+
+here we have two methods for enqueue we just use the back property and set it next to the new object so O(1), for dequeue we just change the front to it next object and thats it so O(1) .
 
 ## UML 

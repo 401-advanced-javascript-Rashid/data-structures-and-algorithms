@@ -4,8 +4,8 @@
 
 ## Links and Resources
 
-- [submission PR]()
-- [ci/cd]()
+- [submission PR](https://github.com/401-advanced-javascript-Rashid/data-structures-and-algorithms/pull/11)
+- [ci/cd](https://github.com/401-advanced-javascript-Rashid/data-structures-and-algorithms/runs/435066850?check_suite_focus=true)
 
 ## Setup
 
@@ -29,3 +29,4 @@ Big O(1)
 I made a function contain for loop to check the input if === the objects of string brackets to return boolean if true push to the array if not pop and return false .
 
 # UML
+https://raw.githubusercontent.com/401-advanced-javascript-Rashid/data-structures-and-algorithms/multi-bracket-validation/assest/20200210_005031.jpg

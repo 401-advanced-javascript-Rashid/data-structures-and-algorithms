@@ -4,8 +4,8 @@
 
 ## Links and Resources
 
-- [submission PR]()
-- [ci/cd]()
+- [submission PR](https://github.com/401-advanced-javascript-Rashid/data-structures-and-algorithms/pull/14)
+- [ci/cd](https://github.com/401-advanced-javascript-Rashid/data-structures-and-algorithms/runs/477144484?check_suite_focus=true)
 
 ## Setup
 
@@ -32,4 +32,4 @@ i used preOrder method to go through all nodes it will be O(n) .
 traverse tree, ternary change values
 
 #### UML
- 
+https://raw.githubusercontent.com/401-advanced-javascript-Rashid/data-structures-and-algorithms/fizzbuzz-tree/assest/20200229_233510.jpg

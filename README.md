@@ -4,8 +4,8 @@
 
 ## Links and Resources
 
-- [submission PR]()
-- [ci/cd]()
+- [submission PR](https://github.com/401-advanced-javascript-Rashid/data-structures-and-algorithms/pull/15)
+- [ci/cd](https://github.com/401-advanced-javascript-Rashid/data-structures-and-algorithms/runs/477235000?check_suite_focus=true)
 
 ## Setup
 
@@ -21,3 +21,4 @@
 i used preOrder method to go through all nodes it will be O(n).
 
 #### UML
+https://raw.githubusercontent.com/401-advanced-javascript-Rashid/data-structures-and-algorithms/breadth-first/assest/20200301_012737.jpg

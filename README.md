@@ -4,8 +4,8 @@
 
 ## Links and Resources
 
-- [submission PR]()
-- [ci/cd]()
+- [submission PR](https://github.com/401-advanced-javascript-Rashid/data-structures-and-algorithms/pull/16)
+- [ci/cd](https://github.com/401-advanced-javascript-Rashid/data-structures-and-algorithms/runs/483510253?check_suite_focus=true)
 
 ## Setup
 
@@ -24,4 +24,4 @@
 in the UMl 
 
 #### UML
-
+https://raw.githubusercontent.com/401-advanced-javascript-Rashid/data-structures-and-algorithms/insertion-sort/assest/20200303_223356.jpg

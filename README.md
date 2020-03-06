@@ -11,8 +11,8 @@ So, that is the basic outline of Quick sort. Here are the steps which need to be
 
 ## Links and Resources
 
-- [submission PR]()
-- [ci/cd]()
+- [submission PR](https://github.com/401-advanced-javascript-Rashid/data-structures-and-algorithms/pull/19)
+- [ci/cd](https://github.com/401-advanced-javascript-Rashid/data-structures-and-algorithms/runs/490943125?check_suite_focus=true)
 
 ## Setup
 
@@ -23,7 +23,5 @@ So, that is the basic outline of Quick sort. Here are the steps which need to be
 
 - 'npm test'
 
-## Approach & Efficiency
-in the UMl 
-
 #### UML
+https://raw.githubusercontent.com/401-advanced-javascript-Rashid/data-structures-and-algorithms/quick-sort/assest/20200306_200903.jpg

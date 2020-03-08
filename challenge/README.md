@@ -1,22 +1,5 @@
-# Code Challenge // Hash Tables
-
-## Author: Rashid-Alsawalqa
-
-## Links and Resources
-
-- [submission PR]()
-- [ci/cd]()
-
-## Setup
-
-   - eslint: 6.8.0
-   - jest: 25.1.0
-
-## How to initialize/run your application (where applicable)
-
-- 'npm test'
-
 # Challenge Summary
+<!-- Short summary or background information -->
 
 - Implement a Hash-table with the following methods:
 
@@ -27,16 +10,24 @@
 
 
 ## Challenge Description
-
+<!-- Description of the challenge -->
 - I need to simulate how hash tables works , using an array in a place of the memory and using a hash method to hash the key , then using the linked list to solve the collision issue .
 
-## Approach & Efficiency
 
+## Approach & Efficiency
+<!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
 - i build HashTable class with all require methods , using linked list to solve the collision issue .
 
-## Big O notation
 
-O(n)
+## Big O notation
+- Space	 Worst case  O(n)
+- Search Worst case	O(n)
+- Insert Worst case	O(n)
+- Delete Worst case	O(n)
+
+## WhiteBoard 
+<!-- Embedded whiteboard image -->
+![](../../assets/hashtable.jpg)
 
 
 
